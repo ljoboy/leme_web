@@ -10,7 +10,7 @@ Leme_web is a learning application for web programming languages by practicing s
 ### Installing
 
 
-   [Click here to download the installer](https://github.com/ljoboy/leme_web/build/)
+   [Click here to download the installer](https://github.com/ljoboy/leme_web/releases/)
    and download the appropriate version for your operating system then :
 ### Windows installation
 
@@ -31,7 +31,7 @@ make sure that you have download the installer
 ## Built With
 
 * [NodeJs](https://nodejs.org/en/docs/) - JavaScript runtime built on Chrome's V8 JavaScript engine. 
-* [ElectronJs](https://electronjs.org/docs/) - Cross platform desktop apps builder
+* [ElectronJs](https://electronjs.org/docs/) - Cross platform desktop apps releaseser
 * [Materialize](http://materializecss.com/getting-started.html) - A modern responsive front-end framework based on Material Design
 * [jQuery](https://code.jquery.com/) - Powerfull JS Framework
 

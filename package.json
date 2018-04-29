@@ -1,20 +1,34 @@
 {
-  "name": "leme_web",
-  "version": "1.0.0",
-  "description": "![leme_web](img/web.jpg)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ljoboy/leme_web.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ljoboy/leme_web/issues"
-  },
-  "homepage": "https://github.com/ljoboy/leme_web#readme"
+    "name": "leme_web",
+    "version": "1.0.0",
+    "description": "![leme_web](img/web.jpg)",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron .",
+        "rebuild": "electron-rebuild -f -w sqlite3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ljoboy/leme_web.git"
+    },
+    "keywords": [],
+    "author": "Lijerbul LJOBOY",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ljoboy/leme_web/issues"
+    },
+    "homepage": "https://github.com/ljoboy/leme_web#readme",
+    "devDependencies": {
+        "electron": "^1.8.6",
+        "electron-rebuild": "^1.7.3"
+    },
+    "dependencies": {
+        "bcrypt": "^2.0.1",
+        "knex": "^0.14.6",
+        "node-php-server": "^0.1.2",
+        "python-shell": "^0.5.0",
+        "sqlite": "^2.9.1",
+        "sqlite3": "^4.0.0"
+    }
 }
