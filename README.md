@@ -43,14 +43,10 @@ Please read [CONTRIBUTING.md](https://github.com/ljoboy/leme_web/CONTRIBUTING.md
 
 * **Mahi2** - *Initial work* - [leme_js](https://github.com/mahi2/leme_js)
 
+* **LJOBOY** - *Modify and extend* - [leme_web](https://github.com/ljoboy/leme_web)
+
 See also the list of [contributors](https://github.com/ljoboy/leme_web/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
